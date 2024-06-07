@@ -21,13 +21,13 @@ Here are some highlights of my work:
 - **[Project Name]**: A RESTful API created using Express.
 
 ### Machine Learning
-- **[Diabetes prediction]**: A machine learning project utilizing scikit-learn to predict Diabetes.
+- **Diabetes prediction**: A machine learning project utilizing scikit-learn to predict Diabetes.
 
 ## Get In Touch
 
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: prof.odhiambo.ostine@gmail.com
+- **LinkedIn**: [ LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Twitter**: [@ochieng_austine](https://x.com/ochieng_austine)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
 
