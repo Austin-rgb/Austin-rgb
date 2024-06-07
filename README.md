@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Austine Odhiambo 👋
 
-<!--
-**Austin-rgb/Austin-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a computer scientist passionate about software development. I have extensive experience in both backend and frontend web development, as well as in machine learning. Below are some of the technologies I work with:
 
-- 🔭 I’m currently working on peitrak payment platform 
-- 🌱 I’m currently learning gpt transformers
-- 👯 I’m looking to collaborate on machine learning projects 
-- 🤔 I’m looking for help with reinforcement learning 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Development
+- **Python**: Flask, Django
+- **JavaScript**: Express
+- **PHP**
+
+### Machine Learning
+- **Libraries**: scikit-learn, TensorFlow
+
+## Projects
+
+Here are some highlights of my work:
+
+### Web Development
+- **[Project Name]**: A web application built with Flask/Django.
+- **[Project Name]**: A RESTful API created using Express.
+
+### Machine Learning
+- **[Project Name]**: A machine learning project utilizing scikit-learn/TensorFlow.
+
+## Get In Touch
+
+- **Email**: [your.email@example.com]
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+
+Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
+
+---
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
