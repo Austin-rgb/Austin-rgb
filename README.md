@@ -21,7 +21,7 @@ Here are some highlights of my work:
 - **[Project Name]**: A RESTful API created using Express.
 
 ### Machine Learning
-- **[Project Name]**: A machine learning project utilizing scikit-learn/TensorFlow.
+- **[Diabetes prediction]**: A machine learning project utilizing scikit-learn to predict Diabetes.
 
 ## Get In Touch
 
