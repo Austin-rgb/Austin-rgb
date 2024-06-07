@@ -1,4 +1,4 @@
-# Hi there, I'm Austine Odhiambo 👋
+7# Hi there, I'm Austine Odhiambo 👋
 
 ## About Me
 
@@ -33,4 +33,4 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 
 ---
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Austin-rgb&show_icons=true&theme=radical)
