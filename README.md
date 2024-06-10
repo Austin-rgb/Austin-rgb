@@ -17,8 +17,7 @@ I am a computer scientist passionate about software development. I have extensiv
 Here are some highlights of my work:
 
 ### Web Development
-- **[Project Name]**: A web application built with Flask/Django.
-- **[Project Name]**: A RESTful API created using Express.
+- **[rapid web](https://github.com/Austin-rgb/rapid_web)**: python package for generating html bootstrap templates 
 
 ### Machine Learning
 - **[Diabetes prediction](https://github.com/Austin-rgb/Diabetes-prediction)**: A machine learning project utilizing scikit-learn to predict Diabetes.
