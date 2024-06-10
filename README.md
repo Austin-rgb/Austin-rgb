@@ -1,4 +1,4 @@
-7# Hi there, I'm Austine Odhiambo 👋
+# Hi there, I'm Austine Odhiambo 👋
 
 ## About Me
 
