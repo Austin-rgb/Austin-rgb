@@ -23,6 +23,9 @@ Here are some highlights of my work:
 ### Machine Learning
 - **[Diabetes prediction](https://github.com/Austin-rgb/Diabetes-prediction)**: A machine learning project utilizing scikit-learn to predict Diabetes.
 
+### Useful backends 
+- **[userpool](https://github.com/Austin-rgb/userpool)**: User management platform for multiple consumers 
+
 ## Get In Touch
 
 - **Email**: prof.odhiambo.ostine@gmail.com
