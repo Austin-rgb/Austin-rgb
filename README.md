@@ -20,7 +20,7 @@ Here are some highlights of my work:
 
 ### Web Development
 - **[rapid web](https://github.com/Austin-rgb/rapid_web)**: python package for generating html bootstrap templates
-- **[remoter] (https://github.com/Austin-rgb/Remoter)**: spring boot web front-end for [healthd](https://github.com/Austin-rgb/HealthD)
+- **[remoter](https://github.com/Austin-rgb/Remoter)**: spring boot web front-end for [healthd](https://github.com/Austin-rgb/HealthD)
 
 ### Mobile Application Development 
 - **[ngomaapp](https://github.com/Austin-rgb/NgomaApp)**: Android application for kcse revision 
