@@ -22,7 +22,9 @@ Here are some highlights of my work:
 
 ### Machine Learning
 - **[Diabetes prediction](https://github.com/Austin-rgb/Diabetes-prediction)**: A machine learning project utilizing scikit-learn to predict Diabetes.
-- **[kmeans vs agglomerative](https://github.com/kmeans_vs_agglomerative)**: Comparing kmeans clustering with agglomerative clustering 
+- **[kmeans vs agglomerative](https://github.com/kmeans-vs-agglomerative)**: Comparing kmeans clustering with agglomerative clustering
+- **[rps](https://github.com/Austin-rgb/rps)**: playing rock-paper-scissor game using recurrent neural network
+- **[deep learning](https://github.com/Austin-rgb/deep-learning)**: A bunch of deep learning practice codes 
 
 ### Useful backends 
 - **[userpool](https://github.com/Austin-rgb/userpool)**: User management platform for multiple consumers 
