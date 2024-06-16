@@ -42,7 +42,7 @@ Here are some highlights of my work:
 ## Get In Touch
 
 - **Email**: prof.odhiambo.ostine@gmail.com
-- **LinkedIn**: [ LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [@Odhiambo_austine](https://www.linkedin.com/public-profile/settings)
 - **Twitter**: [@ochieng_austine](https://x.com/ochieng_austine)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
