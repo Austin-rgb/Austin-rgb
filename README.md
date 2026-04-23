@@ -4,12 +4,9 @@
 
 I am a computer scientist passionate about software development. I have extensive experience in both backend and frontend web development, as well as in machine learning. Below are some of the technologies I work with:
 
-### Web Development
-- **Python**: Flask, Django 
-- **Java**: Springboot
-
-### Mobile Applications
-- **Java**: Android
+### Web Development 
+- **Rust**: Actix-web
+- **Python**: Django, Flask
 
 ### Machine Learning
 - **Libraries**: scikit-learn, TensorFlow
@@ -19,13 +16,11 @@ I am a computer scientist passionate about software development. I have extensiv
 Here are some highlights of my work:
 
 ### Web Development
+- **[ferrumec](https://github.com/Ferrumec)**: An ecosystem of actix-web composable web applications for rapid web development 
 - **[easybuy](http://github.com/Austin-rgb/easybuy)**: Django web application for an online shop
 - **[peitrak](https://github.com/Austin-rgb/peitrak)**: django web application for tracking payments in eCommerce 
 - **[rapid web](https://github.com/Austin-rgb/rapid_web)**: python package for generating html bootstrap templates
 - **[remoter](https://github.com/Austin-rgb/Remoter)**: spring boot web front-end for [healthd](https://github.com/Austin-rgb/HealthD)
-
-### Mobile Application Development 
-- **[ngomaapp](https://github.com/Austin-rgb/NgomaApp)**: Android application for kcse revision 
 
 ### Machine Learning
 - **[Diabetes prediction](https://github.com/Austin-rgb/Diabetes-prediction)**: A machine learning project utilizing scikit-learn to predict Diabetes.
