@@ -53,4 +53,4 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 
 ---
 
-![Austin-rgb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Austin-rgb&show_icons=true&theme=radical)
+![Austin-rgb's GitHub stats](https://github-stats-extended.vercel.app/api?username=Austin-rgb&show_icons=true&theme=radical)
