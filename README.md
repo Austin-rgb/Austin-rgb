@@ -55,4 +55,4 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 
 ![Austin-rgb's GitHub stats](https://github-stats-extended.vercel.app/api?username=Austin-rgb&show_icons=true&theme=radical)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Austin-rgb&stats_format=bytes)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Austin-rgb&hide=html&layout=donut)
